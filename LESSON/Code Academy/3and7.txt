@@ -1,0 +1,25 @@
+1.Verilmiş n ədədinin 3 və 7-ə bölünüb-bölünməməsini tapın.
+start:
+ input n
+  n==0:
+   print "don't enter 0"
+  else:
+   n%3==0 && n%7==0:
+    print "number divided by 3 and 7"
+   else:
+    print "number doesn't divided by 3 and 7"
+end.
+
+
+
+
+başla
+ giriş n ədədi
+  n ədədi 0-dır?
+   ekrana yazdır "0 daxil etməyin"
+  əks halda
+   n ədədi 3-ə və 7-ə bölünürmü?
+    ekrana yazdır "bölünür"
+   əks halda 
+    ekrana yazdır "bölünmür"
+bitir

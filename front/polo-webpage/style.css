@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.intro {
+  position: relative;
+}
+
+.contact {
+  top: 0;
+  left: 0;
+  position: absolute !important;
+  z-index: 999;
+}
+
+.my-carousel {
+  margin-top: 0;
+  position: relative;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,18 @@
+2.Verilmiş düzbucaqlı şkafın hər hansı bir qapıdan keçib-keçməyəcəyini  tapan algoritm yazın
+
+start:
+ input VolumeOfCabinet,VolumeOfDoor
+  VolumeOfCabinet<=VolumeOfDoor:
+   printf "the cabinet will pass through the door"
+  else:
+   printf "the cabinet will not pass through the door"
+end.
+
+
+başla
+ giriş şkafın həcmi, qapının həcmi
+  şkafın həcmi qapının həcmindən kiçikdirmi?
+   ekrana yazdır "şkaf qapıdan keçəcək"
+  əks halda
+   ekrana yazdır "şkaf qapıdan keçməyəcək"
+bitir

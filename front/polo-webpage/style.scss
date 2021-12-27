@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.intro{
+    position: relative;
+}
+.contact{
+    top: 0;
+    left: 0;
+    position:absolute !important;
+    z-index: 999;
+}
+.my-carousel{
+    margin-top: 0;
+    position: relative;
+}
+

@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container .row .title h1 {
+  padding-top: 20px;
+  color: darkblue;
+  display: inline;
+  padding-right: 700px;
+}
+
+.container .row .card-text {
+  overflow: hidden;
+  max-height: 45px;
+}
+
+.container .row .section1:hover, .container .row .section2:hover, .container .row .section3:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+  -webkit-transition: -webkit-transform 1s, -webkit-filter 1s ease-in-out;
+  transition: -webkit-transform 1s, -webkit-filter 1s ease-in-out;
+  transition: transform 1s, filter 1s ease-in-out;
+  transition: transform 1s, filter 1s ease-in-out, -webkit-transform 1s, -webkit-filter 1s ease-in-out;
+}
+
+.container .row .section1, .container .row .section2, .container .row .section3 {
+  margin-top: 30px;
+}
+
+.parallax {
+  background: url("./img/solutions_bg-1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: 50px;
+  max-width: 1300px;
+  height: 500px;
+}
+
+.parallax .parallax-inner {
+  margin-top: 10%;
+}
+
+.parallax .parallax-inner .row .title span {
+  font-size: 80px;
+  font-weight: bold;
+  color: white;
+  margin: 0 auto;
+}
+
+.parallax .parallax-inner .text {
+  height: 500px;
+  background-color: #414197;
+  opacity: 0.9;
+  position: absolute;
+  z-index: 122;
+}
+
+.parallax .parallax-inner .text p {
+  margin: 0 auto;
+  color: white;
+  font-size: 25px;
+}
+/*# sourceMappingURL=style.css.map */

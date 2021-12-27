@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    .col-4{
+        width:25% ;
+    }
+    .col-6{
+        width: 50%;
+    }
+
+    
+    .news1{
+        position: relative;
+        background-color: darkcyan;
+        height: 200px;
+        width: 33%; 
+    }
+    .news1 .date{
+      position: absolute;
+      top: 0px;
+      left: 0;
+      width: 30px;
+      height: 100px;
+    }
+    .news1 .date p{
+        margin: 0;
+        color: wheat;
+        background-color: rgb(30, 88, 143);
+    }
+    .news1 .news-title{
+        background-color: white;
+    }
+    .news1 .news-title p{
+        font-size: 25px;
+    }
+    .news2{
+        position: relative;
+        background-color: darkgoldenrod;
+        height: 200px;
+        width: 33%; 
+    }
+    .news2 .date{
+        position: absolute;
+        top: 0px;
+        left: 0;
+        width: 40px;
+        height: 100px;
+      }
+      .news2 .date p{
+          margin: 0;
+          color: wheat;
+          background-color: rgb(30, 88, 143);
+      }
+    .news3{
+        position: relative;
+        background-color:darkred;
+        height: 200px;
+        width: 33%; 
+    }
+    .news3 .date{
+        position: absolute;
+        top: 0px;
+        left: 0;
+        width: 40px;
+        height: 100px;
+      }
+      .news3 .date p{
+          margin: 0;
+          color: wheat;
+          background-color: rgb(30, 88, 143);
+      }
+    .news4{
+        position: relative;
+        background-color:rgb(79, 139, 0);
+        height: 200px;
+        width: 33%; 
+    }
+    .news4 .date{
+        position: absolute;
+        top: 0px;
+        left: 0;
+        width: 40px;
+        height: 100px;
+      }
+      .news4 .date p{
+          margin: 0;
+          color: wheat;
+          background-color: rgb(30, 88, 143);
+      }
+    .news5{
+        position: relative;
+        background-color:rgb(21, 0, 139);
+        height: 200px;
+        width: 33%; 
+    }
+    .news5 .date{
+        position: absolute;
+        top: 0px;
+        left: 0;
+        width: 40px;
+        height: 100px;
+      }
+      .news5 .date p{
+          margin: 0;
+          color: wheat;
+          background-color: rgb(30, 88, 143);
+      }
+    .news6{
+        position: relative;
+        background-color:rgb(199, 202, 20);
+        height: 200px;
+        width: 33%; 
+    }
+    .news6 .date{
+        position: absolute;
+        top: 0px;
+        left: 0;
+        width: 40px;
+        height: 100px;
+      }
+      .news6 .date p{
+          margin: 0;
+          color: wheat;
+          background-color: rgb(30, 88, 143);
+      }
+    .container{
+        margin: 0 auto;
+        display: flex;
+        height: 800px;
+        width: 1200px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items:flex-start;
+        align-items: center;
+        align-content: space-around;
+    }
+    .container{
+        margin: 0 auto;
+        display: flex;
+        height: 800px;
+        width: 1200px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items:flex-start;
+        align-items: center;
+        align-content: space-around;
+    }
+  

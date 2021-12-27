@@ -1,0 +1,61 @@
+Macro and microstates. The statistical weight. Entropy. The law of entropy increase.
+
+Macro and microstates.
+In physics, a microstate is defined as the arrangement of each molecule in the system at a single instant.
+ A macrostate is defined by the macroscopic properties of the system, such as temperature, pressure, volume, etc. 
+For each macrostate, there are many microstates which result in the same macrostate.
+The key difference between microstate and macrostate is that microstate refers to the microscopic configuration 
+of a thermodynamic system, whereas macrostate refers to the macroscopic properties of a thermodynamic system.
+2eded sekil in downloads
+
+The statistical weight.
+https://physics.stackexchange.com/questions/469948/what-is-the-statisitical-weight-of-a-system
+In statistical mechanics, the statistical weight is the relative probability of a particular feature of a state. 
+It refers to the configuration entropy of a system. The configuration is the instantaneous arrangement of all the 
+particles of the system throughout the distinct energy levels of the system.
+
+Entropy.
+What is entropy in simple terms?
+The entropy of an object is a measure of the amount of energy which is unavailable to do work. 
+Entropy is also a measure of the number of possible arrangements the atoms in a system can have. 
+In this sense, entropy is a measure of uncertainty or randomness.
+What is entropy explain with example?
+Entropy is a measure of the energy dispersal in the system. We see evidence that the universe tends 
+toward highest entropy many places in our lives. A campfire is an example of entropy. ... 
+Ice melting, salt or sugar dissolving, making popcorn and boiling water for tea are processes with 
+increasing entropy in your kitchen.
+https://openstax.org/books/physics/pages/12-3-second-law-of-thermodynamics-entropy
+Is entropy a law of physics?
+The second law of thermodynamics states that the total entropy of a system either increases or 
+remains constant in any spontaneous process; it never decreases. ... Heat cannot transfer energy spontaneously 
+from colder to hotter, because the entropy of the overall system would decrease.
+
+The law of entropy increase.
+This phenomenon is explained by the second law of thermodynamics, which relies on a concept known as entropy. 
+Entropy is a measure of the disorder of a system. Entropy also describes how much energy is not available to do work.
+ The more disordered a system and higher the entropy, the less of a system's energy is available to do work.
+
+Although all forms of energy can be used to do work, it is not possible to use the entire available energy for work. 
+Consequently, not all energy transferred by heat can be converted into work, and some of it is lost in the form of 
+waste heat—that is, heat that does not go toward doing work. The unavailability of energy is important in thermodynamics; 
+in fact, the field originated from efforts to convert heat to work, as is done by engines.
+
+The equation for the change in entropy, ΔS, is
+
+ΔS=Q/T, where Q is the heat that transfers energy during a process, 
+and T is the absolute temperature at which the process takes place.
+
+The second law of thermodynamics states that the total entropy of a system either increases or remains constant 
+in any spontaneous process; it never decreases. An important implication of this law is that heat transfers energy 
+spontaneously from higher- to lower-temperature objects, but never spontaneously in the reverse direction. 
+This is because entropy increases for heat transfer of energy from hot to cold
+https://openstax.org/books/physics/pages/12-3-second-law-of-thermodynamics-entropy
+
+
+ Examples of one-way processes in nature. 
+(a) Heat transfer occurs spontaneously from hot to cold, but not from cold to hot. 
+(b) The brakes of this car convert its kinetic energy to increase their internal energy (temperature), 
+and heat transfers this energy to the environment. The reverse process is impossible. 
+(c) The burst of gas released into this vacuum chamber quickly expands to uniformly fill every part of the chamber. 
+The random motions of the gas molecules will prevent them from returning altogether to the corner.
+ 
